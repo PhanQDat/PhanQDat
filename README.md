@@ -2,9 +2,12 @@
 <h1 align="left">"Hello Word ✨"</h1>
 
 - 🌱 I’m currently learning everything 🥸
-<h1 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = "30",height = "30" style="margin-right: 10px;">📫 How to reach me </h1>
+<h1 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = "30",height = "30" style="margin-right: 10px;">
+  📫 How to reach me: 
+  <a href="https://www.facebook.com/PhanDat.24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="PhanQDat" height="30" width="40" />
+  </a> 
+</h1>
 <p align="left">
-  <a href="https://www.facebook.com/PhanDat.24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="PhanQDat" height="30" width="40" /></a>
 
 ###
 
