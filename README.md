@@ -12,7 +12,7 @@
 ###
 
 <div id="header" align="center">
-  <img src="https://ac-o.namu.la/20221126sac/a69b8e5b94822ed1e7393353d757c0d526f18835adf70249ca008da472004f48.gif?expires=1715753300&key=ML98bIYf_Ttq2x2Gk2kFHg&type=orig" width="800"/>
+  <img src="https://ac-o.namu.la/20221126sac/a69b8e5b94822ed1e7393353d757c0d526f18835adf70249ca008da472004f48.gif" width="800"/>
 </div>
 
 ###
