@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="left">"Hello Word ✨"</h1>
+### <h1 align="left">"Hello Word ✨"</h1>
 
 - 🌱 I’m currently learning everything 🥸
 <h1 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = "30",height = "30" style="margin-right: 10px;">
